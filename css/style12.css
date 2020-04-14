@@ -1,0 +1,26 @@
+body {background-image:url('https://wallpapershome.com/images/pages/pic_h/181.jpg');
+}
+.name {font-size:40px;
+font-family: 'Orbitron', sans-serif;
+color:#BF3326;}
+.flex-container {
+  display: flex;
+}
+.img1 {
+	width:170px;
+	height:auto;
+}
+.img2 {
+	width:100px;
+	height:auto;
+	margin-right:200px;
+}
+.img3 { width:200px;
+height:auto;
+margin-left:100px; }
+.img4 {height:auto;
+width:140px;}
+.img5 {width:100px
+	height:100px;}
+	.img6 {width:80px;
+	height:auto}
